@@ -1,0 +1,20 @@
+.test1{
+	background-color: red;
+}
+
+.test2{
+	background-color:green;
+}
+
+.test3{
+	background-color:cyan;
+}
+/* .align-center{
+	text-align: right;
+} */
+.glyphicon-log-in{
+	padding-right: 20px;
+}
+.demo1,.demo2{
+	padding-bottom: 30px;
+}
